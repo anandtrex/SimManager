@@ -1,5 +1,5 @@
 __author__ = "Arjun Rao, Anand Subramoney"
-__version__ = "0.8.3"
+__version__ = "0.8.4"
 
 from .paths import Paths
 from .simmanager import SimManager
